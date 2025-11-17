@@ -2,7 +2,7 @@
 
 ## Funcionalidades
 - Gestion de libros
-- Sistema de busqueda
+- Sistema de busqueda por autor y libro
 
 ## Caracteristicas usuarios
 - Registro de usuarios
