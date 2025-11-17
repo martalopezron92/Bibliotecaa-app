@@ -4,3 +4,6 @@
 - Gestion de libros
 - Sistema de busqueda
 
+## Caracteristicas usuarios
+- Registro de usuarios
+- Gestion de prestamos
