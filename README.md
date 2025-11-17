@@ -7,3 +7,5 @@
 ## Caracteristicas usuarios
 - Registro de usuarios
 - Gestion de prestamos
+- Gestion de multas
+
